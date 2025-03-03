@@ -9,7 +9,7 @@
     "platforms": "*",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/dennisma/hptimer"
     },
     "authors": [
         {
