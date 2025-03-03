@@ -1,0 +1,21 @@
+{
+    "name": "hptimer",
+    "version": "1.0.0",
+    "description": "High precision timer",
+    "keywords": ["timer", "high precision"],
+    "author": "Dennis Mabrey",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "authors": [
+        {
+            "name": "Dennis Mabrey",
+            "email": "denbo68@gmail.com",
+            "maintainer": true
+        }
+    ]
+}
