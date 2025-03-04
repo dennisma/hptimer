@@ -1,6 +1,6 @@
 {
     "name": "hptimer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "High precision timer",
     "keywords": ["timer", "high precision"],
     "author": "Dennis Mabrey",
@@ -9,7 +9,7 @@
     "platforms": "*",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dennisma/hptimer"
+        "url": "https://github.com/dennisma/hptimer.git"
     },
     "authors": [
         {
